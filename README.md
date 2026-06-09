@@ -15,3 +15,8 @@ This project uses the () dataset from Kaggle.
 ## Progress to track 
 1. First we will go over github and markdwon
 2. Create folders for our project and do basic file analysis
+
+## For tomorrow 
+- we will do matplotlib library and figure generation
+
+
