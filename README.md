@@ -8,6 +8,7 @@ This project uses the () dataset from Kaggle.
 
 ## Folder Structure 
 - data/
+- - penguins_size.csv -- this is the file we are using for our data analysis
 - ouputs/
 - figures/
 - code/
